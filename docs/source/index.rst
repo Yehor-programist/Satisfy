@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Добро пожаловать в Satisfy!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Satisfy** - здешние земли долгие века истощались непрекращающимися войнами, конец которым пришел лишь недавно. В этом прекрасном и ужасном мире постоянно может что-то происходить.
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
